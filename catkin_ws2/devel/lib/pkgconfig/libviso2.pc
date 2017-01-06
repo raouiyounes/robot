@@ -1,0 +1,8 @@
+prefix=/home/younes/Musique/catkin_ws2/devel
+
+Name: libviso2
+Description: Description of libviso2
+Version: 0.0.1
+Cflags: -I/home/younes/Musique/catkin_ws2/src/viso2/libviso2/libviso2/src
+Libs: -L/home/younes/Musique/catkin_ws2/devel/lib -lviso2
+Requires: 
