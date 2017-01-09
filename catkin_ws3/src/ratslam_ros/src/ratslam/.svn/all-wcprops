@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/37/branches/ratslam_ros/src/ratslam
+END
+visual_odometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/branches/ratslam_ros/src/ratslam/visual_odometry.h
+END
+posecell_network.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/37/branches/ratslam_ros/src/ratslam/posecell_network.cpp
+END
+local_view_match.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/37/branches/ratslam_ros/src/ratslam/local_view_match.cpp
+END
+experience_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/37/branches/ratslam_ros/src/ratslam/experience_map.cpp
+END
+posecell_network.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/37/branches/ratslam_ros/src/ratslam/posecell_network.h
+END
+visual_odometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/branches/ratslam_ros/src/ratslam/visual_odometry.cpp
+END
+local_view_match.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/37/branches/ratslam_ros/src/ratslam/local_view_match.h
+END
+experience_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/37/branches/ratslam_ros/src/ratslam/experience_map.h
+END
